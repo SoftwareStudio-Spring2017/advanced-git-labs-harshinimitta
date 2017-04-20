@@ -2,7 +2,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello  Conflicts from Master!");
+        System.out.println("Hello Conflicts from Sandbox!");
     }
 
 }
